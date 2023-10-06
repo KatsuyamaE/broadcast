@@ -1,0 +1,67 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+html,body {
+	font-family: "Calibri",sans-serif;
+	font-size: 62.5%;
+	background:#DDDDDD
+}
+.header {
+	display: block;
+	width: 614px;
+	background-color: #FFFFFF;
+	margin: 0 auto;
+}
+
+h1 {
+	text-align: center;
+}
+
+footer {
+	background: #FFFFFF;
+	width: 614px;
+	font-size: 1.4rem;
+	margin: 0 auto;
+}
+
+footer p {
+	margin: 5px auto;
+	text-align: center;
+}
+
+canvas {
+	background: #ececec !important;
+}
+
+textarea {
+	font-size: 1.6rem !important;
+	line-height: 1.4 !important;
+}
+
+label {
+	font-size: 1.6rem !important;
+}
+
+body#meishu h1 {
+	border-bottom: 0.2rem solid #3479C1;
+	padding-top: 0.1rem;
+	padding-bottom: 0.1rem;
+	padding-left: 1rem;
+	line-height: 1.5;
+	margin-bottom: 1rem;
+	font-size: 1.6rem;
+	font-weight: normal;	
+}
+
+body#etsuryu h1 {
+	border-bottom: 0.2rem solid #0033cc;
+	padding-top: 0.1rem;
+	padding-bottom: 0.1rem;
+	padding-left: 1rem;
+	line-height: 1.5;
+	margin-bottom: 1rem;
+	font-size: 1.6rem;
+	font-weight: normal;
+}
+
