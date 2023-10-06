@@ -3,7 +3,8 @@
 
 
 html,body {
-	font-family: "Calibri",sans-serif;
+	font-family: "Be Vietnam Pro",sans-serif;
+	src: url("../broadcast/fonts/BeVietnamPro-Medium.ttf");
 	font-size: 62.5%;
 	background:#DDDDDD
 }
